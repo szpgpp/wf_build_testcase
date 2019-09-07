@@ -1,0 +1,6 @@
+E:\VS Forms\wf_cars_demo\wf_cars_demo\bin\Debug\wf_cars_demo.exe.config
+E:\VS Forms\wf_cars_demo\wf_cars_demo\bin\Debug\wf_cars_demo.exe
+E:\VS Forms\wf_cars_demo\wf_cars_demo\bin\Debug\wf_cars_demo.pdb
+E:\VS Forms\wf_cars_demo\wf_cars_demo\obj\Debug\wf_cars_demo.csprojResolveAssemblyReference.cache
+E:\VS Forms\wf_cars_demo\wf_cars_demo\obj\Debug\wf_cars_demo.exe
+E:\VS Forms\wf_cars_demo\wf_cars_demo\obj\Debug\wf_cars_demo.pdb
