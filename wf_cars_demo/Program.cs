@@ -74,8 +74,8 @@ namespace wf_cars_demo
     public class CAR
     {
         public string Name;
-        public bool IsStart;
-        public bool IsEnd;
+        public bool IsStart = false;
+        public bool IsEnd = false;
         public bool IsConCurrent = false;
         public List<CAR> NextCARs = null;
         public CAR(string name, bool isStart = false, bool isEnd = false)
@@ -192,6 +192,7 @@ namespace wf_cars_demo
                         this.LCASE.Add(xcase_clone1);
                     }
                 }
+                xcase_clone.CARS.Clear();
 
             }
             this.Degree++;
