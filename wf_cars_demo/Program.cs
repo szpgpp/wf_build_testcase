@@ -17,7 +17,7 @@ namespace wf_cars_demo
             var car4 = new CAR("4", false, true);
             var car5 = new CAR("5", false, true);
             var car6 = new CAR("6");
-            //var car4 = new CAR("2");
+            var car7 = new CAR("7");
 
             //build relations among them
             car1.AddNextCAR(car2);
@@ -26,6 +26,7 @@ namespace wf_cars_demo
             car2.AddNextCAR(car5);
             car3.AddNextCAR(car6);
             car6.AddNextCAR(car5);
+            car4.AddNextCAR(car7);
 
             //get l_case
             CASE_Builder cb = new CASE_Builder(car1);
@@ -171,7 +172,7 @@ namespace wf_cars_demo
                 return true;
             }
 
-            var cases = this.LCASE.FindAll(t => !t.IsEnd).ToList();
+            var cases = this.LCASE.FindAll(t => !t.IsEnd && t.EndCAR.NextCARs.Count > 0).ToList();
             if (cases.Count == 0) { cases.Clear(); return false; }
             foreach(var xcase in cases)
             {

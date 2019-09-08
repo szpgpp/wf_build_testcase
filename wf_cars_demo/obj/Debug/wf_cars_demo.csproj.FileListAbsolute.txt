@@ -4,3 +4,10 @@ E:\VS Forms\wf_cars_demo\wf_cars_demo\bin\Debug\wf_cars_demo.pdb
 E:\VS Forms\wf_cars_demo\wf_cars_demo\obj\Debug\wf_cars_demo.csprojResolveAssemblyReference.cache
 E:\VS Forms\wf_cars_demo\wf_cars_demo\obj\Debug\wf_cars_demo.exe
 E:\VS Forms\wf_cars_demo\wf_cars_demo\obj\Debug\wf_cars_demo.pdb
+E:\szp-workspace\wpf\wf_build_testcase-master\pulll-version\wf_cars_demo\bin\Debug\wf_cars_demo.exe.config
+E:\szp-workspace\wpf\wf_build_testcase-master\pulll-version\wf_cars_demo\bin\Debug\wf_cars_demo.exe
+E:\szp-workspace\wpf\wf_build_testcase-master\pulll-version\wf_cars_demo\bin\Debug\wf_cars_demo.pdb
+E:\szp-workspace\wpf\wf_build_testcase-master\pulll-version\wf_cars_demo\obj\Debug\wf_cars_demo.csprojAssemblyReference.cache
+E:\szp-workspace\wpf\wf_build_testcase-master\pulll-version\wf_cars_demo\obj\Debug\wf_cars_demo.csproj.CoreCompileInputs.cache
+E:\szp-workspace\wpf\wf_build_testcase-master\pulll-version\wf_cars_demo\obj\Debug\wf_cars_demo.exe
+E:\szp-workspace\wpf\wf_build_testcase-master\pulll-version\wf_cars_demo\obj\Debug\wf_cars_demo.pdb
